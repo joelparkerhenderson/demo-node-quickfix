@@ -11,7 +11,7 @@ See https://github.com/joelparkerhenderson/demo_quickfix
 
 Download quickfix tar here: http://www.quickfixengine.org/
 
-Warning: the current version of QuickFIX as of 2018-12-21 seems to be incompatible with node-quickfix. See https://github.com/Trumid/node-quickfix/issues/48. Users report that a downgrade to 1.14.3 works. This repo includes the quickfix 1.14.3 for your convenience.
+Warning: the current version of quickfix is 1.15.1 as of 2018-12-21, and this version seems to be incompatible with node-quickfix. See https://github.com/Trumid/node-quickfix/issues/48. For us, a workaround is to downgrade to quickfix 1.14.3.
 
 Check required dependencies: http://www.quickfixengine.org/quickfix/doc/html/dependencies.html
 
