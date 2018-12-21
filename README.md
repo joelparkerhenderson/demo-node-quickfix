@@ -77,7 +77,7 @@ If you get this error in the logs:
 info lifecycle node-quickfix@2.1.1~install: Failed to exec install script
 ```
 
-Then be sure you're trying to use quickfix version 1.14.3 or similar compatibile version. This is because of this writing on 2018-12-21, the current quickfix version is not compatible with node-quickfix. 
+Then be sure you're trying to use quickfix version 1.14.3 or similar compatibile version. This is because currently, as of 2018-12-21, the current quickfix version 1.15.1 is not compatible with the currentnode-quickfix version.
 
 If you get this error:
 
